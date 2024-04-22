@@ -16,10 +16,10 @@ O repositório inclui os seguintes arquivos principais:
 ## Capturas de Tela
 
 ### Página de Pagamento do Pedido
-![Página de Pagamento do Pedido](caminho/para/sua/imagem/payment_page.png)
+![Página de Pagamento do Pedido](github_img/pagamento.png)
 
 ### Página de Pagamento Confirmado
-![Página de Pagamento Confirmado](caminho/para/sua/imagem/confirmed_payment.png)
+![Página de Pagamento Confirmado](github_img/pagamentoRealizado.png)
 
 ### Página de Pagamento Não Encontrado
-![Página de Pagamento Não Encontrado](caminho/para/sua/imagem/payment_not_found_page.png)
+![Página de Pagamento Não Encontrado](github_img/404.png)
